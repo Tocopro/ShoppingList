@@ -16,9 +16,9 @@ the entire shopping list is displayed with indicator for allergic food items are
 # Webpage image of the shopping list
 
 
-![Shopping List WebPage](Project1.png)
+![Shopping List WebPage](https://github.com/Tocopro/ShoppingList/blob/main/Project1.png)
 
 
 # Demonstration Video
 
-<video src="Untitled%20video.mp4" controls title="Title"></video>
+<video src="https://github.com/Tocopro/ShoppingList/blob/main/Untitled%20video.mp4" controls title="Title"></video>
